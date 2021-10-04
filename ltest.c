@@ -1,5 +1,4 @@
-/* file to test list.c
- * 
+/* file to test list.c 
  */
 
 #include <stdio.h>
